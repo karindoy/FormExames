@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/karindoy/FormExames#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "sqlite3": "^4.0.2"
   },
   "devDependencies": {}
 }
