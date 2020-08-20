@@ -11,7 +11,7 @@ var index = express();
 //index.use(express.static(__dirname + '/public'));
 
 index.get('/', function (req, res) {
-  res.sendFile(__dirname + '/formulario.html');
+  res.sendFile(__dirname + '/src/formulario.html');
 });
 
 index.listen(3000, function () {
