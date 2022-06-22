@@ -30,6 +30,6 @@
     "express": "^4.17.1",
     "grunt-contrib-uglify-es": "github:gruntjs/grunt-contrib-uglify#harmony",
     "phantomjs-prebuilt": "^2.1.16",
-    "sqlite3": "^5.0.0"
+    "sqlite3": "^5.0.3"
   }
 }
