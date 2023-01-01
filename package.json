@@ -23,7 +23,7 @@
     "grunt-contrib-jshint": "^2.1.0",
     "grunt-contrib-uglify": "^5.0.0",
     "grunt-webpack": "^4.0.2",
-    "webpack": "^4.44.1"
+    "webpack": "^5.75.0"
   },
   "dependencies": {
     "ajv": "^6.12.4",
